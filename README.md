@@ -123,6 +123,7 @@ Process finished with exit code 1
 <p align="justify">
 Contribuições são bem-vindas! Se você deseja contribuir para este projeto, abra um problema ou envie uma solicitação de pull.
 </p>
+
 ## :robot: Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
