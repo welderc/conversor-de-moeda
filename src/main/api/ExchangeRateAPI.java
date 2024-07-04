@@ -28,7 +28,7 @@ public class ExchangeRateAPI {
 
     public boolean consultarMoeda(String moeda) {
 
-        URI URIApi = URI.create("https://v6.exchangerate-api.com/v6/90b52eeb30e184a7cc034866/latest/" + moeda);
+        URI URIApi = URI.create("https://v6.exchangerate-api.com/v6/[Sua chave API]/latest/" + moeda);
 
         try {
             HttpClient client = HttpClient.newHttpClient();
